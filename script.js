@@ -1,6 +1,6 @@
 const images = [
     './assets/img/img1.png',
-    './assets/img/img2.PNG',
+    './assets/img/img2.webp',
     './assets/img/img3.JPG',
     './assets/img/img4.PNG',
 ];
